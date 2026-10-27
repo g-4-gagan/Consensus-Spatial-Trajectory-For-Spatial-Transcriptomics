@@ -1,0 +1,6 @@
+,root cluster mean pt,injury cluster mean pt,Spearman with injury score,family
+SpaceFlow,0.046,0.046,-0.297,Graph neural net (DGI) + DPT
+SpaTrack,0.006,0.006,-0.19,Optimal transport (expression + distance)
+StaVia,0.038,0.038,-0.26,Random walks with memory + spatial smoothing
+stLearn,0.147,0.147,-0.375,stSME (space + image + expression) + PSTS
+CASCAT,0.126,0.126,-0.413,Causal (CMI) pruned spatial graph + tree

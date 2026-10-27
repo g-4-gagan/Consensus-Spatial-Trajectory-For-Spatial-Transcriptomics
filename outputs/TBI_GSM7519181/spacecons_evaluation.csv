@@ -1,0 +1,9 @@
+ordering,agreement with SPACECONS,corr. with injury score,root-cluster mean
+SpaceFlow,0.6077,-0.2968,0.0459
+SpaTrack,0.688,-0.1903,0.0063
+StaVia,0.4407,-0.2604,0.0384
+stLearn,0.8258,-0.3747,0.1469
+CASCAT,0.0274,0.4127,0.8738
+SPACECONS (weighted),1.0,-0.3009,0.0757
+Borda (uniform),0.9379,-0.2736,0.0842
+space only (1st PC of xy),0.197,,
